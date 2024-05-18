@@ -1,0 +1,24 @@
+{
+  "contact": [
+    {
+      "info": "Elina, Isanalieva, +996123456789",
+      "id": 2
+    },
+    {
+      "info": "Arzygul, Alymkulova, +996123456789",
+      "id": 3
+    },
+    {
+      "info": "Aisuluu, Osmonova, +996123456789",
+      "id": 4
+    },
+    {
+      "info": "Ariet, Sagyndykov, +996123456789",
+      "id": 5
+    },
+    {
+      "info": "Aktenir, Kazbekov, +996123456789",
+      "id": 6
+    }
+  ]
+}
